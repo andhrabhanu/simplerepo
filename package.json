@@ -1,0 +1,22 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andhrabhanu/simplerepo.git"
+  },
+  "author": "bhanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andhrabhanu/simplerepo/issues"
+  },
+  "homepage": "https://github.com/andhrabhanu/simplerepo#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
